@@ -19,6 +19,6 @@ public class daystoTest {
     int test2 = Math.abs(new daysto().daysuntil(2016,10,5,2015,4,3));
     assertEquals(test2,552);
     int test3 = Math.abs(new daysto().daysuntil(2014,2,3,2013,5,3));
-    assertEquals(test3,276);
+    assertEquals(test3,26);
   }
 }
